@@ -49,3 +49,9 @@ android:theme="@style/GCAlert" android:hardwareAccelerated="false"></activity>
 </receiver>
 
 ```
+
+```actionscript
+
+AmazonGameCircle.getInstance().initialize(this, AmazonGamesFeature.ACHIEVEMENTS | AmazonGamesFeature.LEADERBOARDS | AmazonGamesFeature.PROGRESS | AmazonGamesFeature.WHISPERSYNC);
+
+```
