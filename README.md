@@ -1,4 +1,8 @@
 ANE Amazon Game Circle
 ======================
 
-##ABC
+xml
+
+<extensionID>com.platagames.extensions.amazon.gamecircle</extensionID>
+
+xml
