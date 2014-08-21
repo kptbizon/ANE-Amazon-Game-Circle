@@ -1,8 +1,8 @@
 ANE Amazon Game Circle
 ======================
 
-xml
+```xml
 
 <extensionID>com.platagames.extensions.amazon.gamecircle</extensionID>
 
-xml
+```
