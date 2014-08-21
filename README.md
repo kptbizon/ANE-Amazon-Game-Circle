@@ -3,7 +3,7 @@ ANE Amazon Game Circle
 
 ```xml
 
-<extensionID>com.platagames.extensions.amazon.gamecircle</extensionID>
+<extensionID>com.mm.extensions.amazon.gamecircle</extensionID>
 
 ```
 
